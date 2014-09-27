@@ -65,9 +65,9 @@ Os seguintes conceitos serão de extrema importância daqui pra frente:
 Agora vamos criar nosso projeto. No terminal, rode o seguinte comando:
 
     mvn archetype:generate -DgroupId=com.diogodmoreira 
-					        -DartifactId=tutorial-maven 
-							-DarchetypeArtifactId=maven-archetype-quickstart
-							-DinteractiveMode=false
+				-DartifactId=tutorial-maven 
+				-DarchetypeArtifactId=maven-archetype-quickstart
+				-DinteractiveMode=false
 
 (**Nota**: o -D denomina um parâmetro, todo o comando deve ser rodado em apenas uma linha, a apresentação dele aqui é apenas para facilitar a leitura)
 
