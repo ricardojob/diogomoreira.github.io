@@ -64,7 +64,13 @@ Os seguintes conceitos serão de extrema importância daqui pra frente:
 </ul>
 Agora vamos criar nosso projeto. No terminal, rode o seguinte comando:
 
-    mvn archetype:generate -DgroupId=com.diogodmoreira -DartifactId=tutorial-maven -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+    mvn archetype:generate -DgroupId=com.diogodmoreira 
+					        -DartifactId=tutorial-maven 
+							-DarchetypeArtifactId=maven-archetype-quickstart
+							-DinteractiveMode=false
+
+(**Nota**: o -D denomina um parâmetro, todo o comando deve ser rodado em apenas uma linha, a apresentação dele aqui é apenas para facilitar a leitura)
+
 Após a execução desse comando, você pode perceber que foi criado um diretório com o nome de <i>tutorial-maven. </i>Explicando o que esse comando fez: pedimos ao maven para gerar um projeto seguindo um archetype (<span style="text-decoration: underline;">mvn archetype:generate</span>), passamos alguns dados relativos ao nosso projeto como <em>groupId e artifactId</em> (entenderemos isso mais a frente), definimos qual o <em>archetype</em> a ser usado (<span style="text-decoration: underline;">-DarchetypeArtifactId=maven-archetype-quickstart</span>) e informamos para não entrar em modo interativo (não pedir dados ao usuário durante a execução do comando).
 
 Neste ponto, a estrutura do nosso projeto está construída, e agora já poderíamos começar a codificar nossa aplicação. Perceba que temos uma pasta chamada "src", e é nela que vamos guardar o código-fonte da nossa aplicação. O Maven por padrão separa dois espaços na nossa aplicação: <em>main</em> e <em>test</em>, a primeira para o código de produção e o segundo para os nossos testes. Note que já temos pacotes criados (<em>com.diogodmoreira</em>) com uma classe (App.java) apenas para demonstrar onde devemos começar a inserir nosso código. Esses pacotes são criados de acordo com o <em>groupId</em> que passamos como parâmetro na criação do nosso projeto.
