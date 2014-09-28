@@ -11,3 +11,5 @@ github_username:  diogomoreira
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-mentions
