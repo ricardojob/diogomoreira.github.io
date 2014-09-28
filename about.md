@@ -14,8 +14,10 @@ Gosto de gastar meu tempo livre programando, escutando música, desenhando, joga
 
 Fique a vontade para entrar em contato se quiser.
 
+**mail:** [diogo.dmoreira [at] gmail.com](mailto:diogo.dmoreira@gmail.com)
+
 <div class="social-icons">
-	<a href="http://www.facebook.com/diogodmoreira" target="_blank"><img src="/assets/images/social/facebook-48.png" /></a>
-	<a href="http://www.twitter.com/diogodmoreira" target="_blank"><img src="/assets/images/social/twitter-48.png" /></a>
-	<a href="http://br.linkedin.com/in/diogodmoreira" target="_blank"><img src="/assets/images/social/linkedin-48.png" /></a>
+	<a href="http://www.facebook.com/diogodmoreira" target="_blank"><img src="/assets/images/social/facebook.png" /></a>
+	<a href="http://www.twitter.com/diogodmoreira" target="_blank"><img src="/assets/images/social/twitter.png" /></a>
+	<a href="http://br.linkedin.com/in/diogodmoreira" target="_blank"><img src="/assets/images/social/linkedin.png" /></a>
 </div>
