@@ -131,7 +131,7 @@
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(350% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
 }
 
@@ -203,12 +203,13 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 24px;
     letter-spacing: -1px;
     line-height: 1;
+    font-weight: bold;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 24px;
     }
 }
 
@@ -217,26 +218,26 @@
     text-align: justify;
 
     h2 {
-        font-size: 32px;
+        font-size: 20px;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 20px;
         }
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 18px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 18px;
         }
     }
 
     h4 {
-        font-size: 20px;
+        font-size: 14px;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 14px;
         }
     }
 
