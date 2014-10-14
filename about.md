@@ -12,6 +12,6 @@ Atualmente sou professor efetivo do **Instituto Federal de Educação, Ciência 
 
 Tenho como hobby principal [desenhar](http://diogodmoreira.deviantart.com). Gosto de gastar meu tempo escutando [música](http://www.lastfm.com.br/user/moreiradiogo), inclusive me sobra vontade pra aprender algum instrumento musical, mas me falta disposição. Também gosto de gastar tempo jogando [videogames](http://alvanista.com/diogodmoreira) ou [jogos online](http://steamcommunity.com/id/diogodmoreira/). Além disso, curto filmes antigos e algumas séries.
 
-Fique a vontade para entrar em contato se quiser.
+Fique a vontade para entrar em contato pelo [Twitter](http://www.twitter.com/diogodmoreira), [Facebook](http://www.facebook/diogodmoreira) ou [LinkedIn](http://br.linkedin.com/in/diogodmoreira/).
 
 **mail:** [diogo.dmoreira [at] gmail.com](mailto:diogo.dmoreira@gmail.com)
