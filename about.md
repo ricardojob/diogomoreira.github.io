@@ -6,7 +6,7 @@ permalink: /about/
 <img src="https://avatars0.githubusercontent.com/u/808759?v=2&s=460" style="float:left; width: 150px; margin: 0px 10px 10px 0px; border: 2px solid #f5f5f5"/>
 Olá, sou **Diogo Moreira**!
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e especialista em Engenharia de Software. Natural de Cajazeiras-PB.
+Sou graduado em Análise e Desenvolvimento de Sistemas e aluno da pós-graduação em Engenharia de Software. Natural de Cajazeiras-PB.
 
 Atualmente sou professor efetivo do **Instituto Federal de Educação, Ciência e Tecnologia da Paraíba** (IFPB) na cidade de Cajazeiras - PB. Anteriormente, fui Engenheiro de Software na **Phoebus Tecnologia** e Analista Desenvolvedor na **Indra Company** trabalhando no desenvolvimento de projetos na linguagem Java. Procuro sempre estar atualizado com as tecnologias utilizadas no mercado e alinhado com as boas práticas de desenvolvimento de software, tanto para desenvolver projetos pessoais como pra tentar repassar o melhor para a sala de aula.
 
