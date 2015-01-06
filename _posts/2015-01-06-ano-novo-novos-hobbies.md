@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ano novo, novos hobbies"
-date: 2014-12-27 15:23:00
+date: 2014-01-06 15:23:00
 comments: true
 tags: off-topic, personal life
 ---
