@@ -11,8 +11,8 @@
 }
 
 .site-title {
-    font-family: 'Ubuntu', sans-serif;
-    font-size: 26px;
+    font-family: 'Bree Serif', serif;
+    font-size: 30px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -172,6 +172,11 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    /* Fallback for web browsers that don't support RGBa */
+    background-color: rgb(255, 255, 255);
+    /* RGBa with 0.6 opacity */
+    background-color: rgba(255, 255, 255, 0.6);
+
 }
 
 .page-heading {
@@ -200,6 +205,24 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+}
+
+.about {
+    line-height: 20px;
+    height: 160px;
+}
+
+.image-circle {
+   width: 140px;
+   height: 140px;
+   float: left;
+   background-image: url("https://avatars0.githubusercontent.com/u/808759?v=3&s=460");
+   background-size: 140px;
+   border: 2px #CCCCE0 solid;
+   -moz-border-radius: 70px; 
+   -webkit-border-radius: 70px; 
+   border-radius: 70px;
+   margin: 0px 10px 10px 0px;  
 }
 
 .post-title {
