@@ -17,8 +17,6 @@ De começo, achei um pouco absurdo a idéia do LaTeX ser mais prático do que um
 Para os que estão querendo começar a aprender, recomendo o material "Breve Introdução ao 
 LATEX 2ε" do Prof. **Lenimar Nunes** (UFPB) que pode ser encontrado [aqui](http://www.lce.esalq.usp.br/clarice/Paraiba.pdf "Breve Introdução ao LaTeX").
 
-O que eu falo para os meus alunos que tem interesse em aprender é:
-
-Não se preocupem com o tamanho do material, leiam até onde acham que se sentem seguros para fazer um documento simples. A medida que forem necessitando de mais recursos (figuras, tabelas, fórmulas matemáticas...) é só pesquisar como fazer isso separadamente. Creio que essa seja a melhor forma de aprender.
+Não se preocupe com o tamanho do material, leia até onde achar que se sente seguro para fazer um documento simples. A medida que você for necessitando de mais recursos (figuras, tabelas, fórmulas matemáticas, etc.) é só pesquisar como fazer isso separadamente. Creio que essa seja a melhor forma de aprender.
 
 Espero ter ajudado e até a próxima! ;)
