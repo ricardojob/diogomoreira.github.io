@@ -9,6 +9,6 @@ Semestres anteriores
 
 ### 2014.2 ###
 
-- [Padrões de Projeto](https://sites.google.com/site/diogodmoreira/padroes) (ADS)
-- [Algoritmos e Técnicas de Programação](https://sites.google.com/site/diogodmoreira/algoritmos-automacao) (AI)
-- [Introdução a Programação](https://sites.google.com/site/diogodmoreira/introducao-programacao) (Engenharia Civil)
+- [Padrões de Projeto](https://sites.google.com/site/diogodmoreira/padroes-20142) (ADS)
+- [Algoritmos e Técnicas de Programação](https://sites.google.com/site/diogodmoreira/algoritmos-automacao-20142) (AI)
+- [Introdução a Programação](https://sites.google.com/site/diogodmoreira/introducao-programacao-20142) (Engenharia Civil)
