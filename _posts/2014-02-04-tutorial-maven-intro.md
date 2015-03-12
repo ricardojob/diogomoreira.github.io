@@ -3,7 +3,7 @@ layout: post
 title:  "Tutorial Maven - Introdução"
 date:   2014-02-04 01:46:42
 comments: true
-tags: desenvolvimento gerencia java maven
+tags: development configuration-management tutorials java maven pt-br
 ---
 
 Olá amigos, tudo bem?

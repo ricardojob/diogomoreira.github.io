@@ -3,7 +3,7 @@ layout: post
 title:  "Tutorial Maven - Entendendo versões"
 date:   2015-01-28 14:46:42
 comments: true
-tags: desenvolvimento gerencia java maven
+tags: development configuration-management tutorials java maven pt-br
 ---
 Olá amigos, tudo bem?
 

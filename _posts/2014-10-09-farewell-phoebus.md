@@ -3,7 +3,7 @@ layout: post
 title:  "Farewell, Phoebus!"
 date:   2014-10-09 18:38:42
 comments: true
-tags: carreira
+tags: career pt-br
 ---
 
 ![Galera da Phoebus](http://i.imgur.com/IDvAJLz.jpg)

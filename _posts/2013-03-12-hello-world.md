@@ -4,6 +4,7 @@ title:  "Hello World"
 date:   2013-03-13 03:13:47
 tags: off-topic thoughts pt-br
 ---
+
 Este é o meu novo blog! Sejam bem-vindos!
 
 Caso você não tenha conhecido o blog anterior (feito em [wordpress]), o conteúdo dele aos poucos vai ser migrado pra esta nova plataforma! ([jekyll]) 

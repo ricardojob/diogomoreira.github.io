@@ -3,7 +3,7 @@ layout: post
 title:  "Começando com LaTeX"
 date:   2015-03-02 08:46:42
 comments: true
-tags: latex, academico
+tags: latex academic tutorials pt-br
 ---
 
 Olá pessoal,

@@ -3,7 +3,7 @@ layout: post
 title: "Meu ambiente de desenvolvimento em 7 itens"
 date: 2014-12-27 15:23:00
 comments: true
-tags: desenvolvimento
+tags: development off-topic pt-br
 ---
 Seguindo a idéia de vários blogs de desenvolvedores de software que eu acompanho, resolvi fazer meu próprio post sobre o meu ambiente de desenvolvimento, listando-o em 7 itens!
 

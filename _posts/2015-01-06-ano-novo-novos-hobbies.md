@@ -3,7 +3,7 @@ layout: post
 title: "Ano novo, novos hobbies"
 date: 2015-01-06 15:23:00
 comments: true
-tags: off-topic, personal life
+tags: off-topic personal-life pt-br
 ---
 Olá pessoal!
 
