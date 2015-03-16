@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meu ambiente de desenvolvimento em 7 itens"
-date: 2014-12-27 15:23:00
+date: 2015-03-15 23:40:00
 comments: true
 tags: development off-topic pt-br
 ---
@@ -11,11 +11,11 @@ Aqui vai:
 
 ## Sistema operacional ##
 
-**Windows 8.1** (podem me xingar desde já).
+**Ubuntu 14.04 LTS**. Utilizei Windows durante muito tempo e achava difícil deixa-lo, mesmo sabendo de todas as suas limitações, por causa dos programas de edição gráfica e jogos. Hoje em dia estou lidando bem com o fato de utilizar Ubuntu, não utilizo mais programas para editar imagens e jogo bem pouco (**Dota 2**, que tem para Linux).
 
-A minha opção pelo Windows é a mesma de 99% das pessoas que o utilizam mesmo sabendo utilizar Linux: **jogos**! Já tentei migrar pra jogar **Dota 2** pela Steam no Linux mas a qualidade dos gráficos não se compara, por isso continuo no Windows. Já tive minha época *full-linux* mas hoje lido bem com o Windows, mesmo tendo várias coisas que me deixam na mão (falta de um Terminal decente, por exemplo).
+O fato de usar Linux me trouxe a um novo ambiente, me forçando a estudar muito mais sobre como as coisas funcionam nele. O fato de usar o terminal está me deixando menos 'preguiçoso' e menos 'preso' a interfaces gráficas que, por muitas vezes, são menos produtivas. Enfim, estou gostando demais de utilizá-lo.
 
-Nota para o futuro: parar de jogar Dota 2!
+Embora eu já tenha utilizado um ambiente *full-linux* outra vez por 6 meses, dessa vez não tem volta. Tudo que preciso está no Linux.
 
 ## Linguagens de programação ##
 
