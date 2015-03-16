@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meu ambiente de desenvolvimento em 7 itens"
-date: 2014-12-27 15:23:00
+date: 2015-03-15 23:40:00
 comments: true
 tags: development off-topic pt-br
 ---
