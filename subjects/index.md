@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Disciplinas
+title: Ensino
 navigation: true
-permalink: /subjects/
+permalink: /ensino/
 ---
 
-No semestre atual (2015.1), estou lecionando as seguintes disciplinas:
+Neste espaço se encontra o acesso as páginas específicas das minhas disciplinas para os meus alunos. Vocês irão encontrar o material das aulas e o planejamento das mesmas. Além disso, sempre estou postando alguns links complementares para ajudar na compreensão e expansão do conteúdo visto em sala de aula.
 
-- **Análise e Projeto de Sistemas** (P3)
-- **Padrões de Projeto** (P4)
-- **Programação Orientada a Serviços** (P6)
+### 2015.1 ###
 
-Visitem as páginas das disciplinas, vocês vão encontrar o material das aulas e o planejamento das mesmas. Além disso, sempre estou postando alguns links complementares para ajudar na compreensão e expansão do conteúdo visto em sala de aula.
+- [Análise e Projeto de Sistemas](/ensino/aps/) (P3)
+- [Padrões de Projeto](/ensino/padroes/) (P4)
+- [Programação Orientada a Serviços](/ensino/pos/) (P6)
 
-Para os que quiserem consultar o material dos semestres anteriores, eles se encontram disponíveis nos links abaixo no Google Sites. (**Deprecated**) 
+Para os que quiserem consultar o material dos semestres anteriores, eles se encontram disponíveis nos links abaixo no Google Sites. 
 
 ### 2014.2 ###
 

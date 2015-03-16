@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Projetos
-permalink: /projects/
+navigation: false
+permalink: /projetos/
 ---
 
 No momento, não estou desenvolvendo nenhum projeto

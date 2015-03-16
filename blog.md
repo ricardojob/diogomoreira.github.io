@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: page
 title: Blog
+navigation: true
 permalink: /blog/
 ---
-
-<div class="home">
 
   <h1 class="page-heading">Recent Posts</h1>
 
@@ -19,5 +18,3 @@ permalink: /blog/
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
