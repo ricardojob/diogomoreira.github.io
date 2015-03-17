@@ -1,0 +1,7 @@
+---
+layout: post
+title: template_title
+date: template_date
+comments: true
+category: template_category
+---
