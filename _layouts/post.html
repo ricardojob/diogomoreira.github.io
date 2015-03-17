@@ -12,6 +12,8 @@ layout: default
     {{ content }}
     {% include twitter_plug.html %}
   </article>
-  <div class="post-comments">{% include comments.html %}</div>
 
+  {% if page.comments == true %}
+  <div class="post-comments">{% include comments.html %}</div>
+  {% endif %}
 </div>
