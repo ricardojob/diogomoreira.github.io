@@ -8,7 +8,7 @@ permalink: /blog/
   <h1 class="page-heading">Recent Posts</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.blog %}
       <li>
         <span class="post-meta">
           {{ post.date | date: "%d/%m/%Y" }} - <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
