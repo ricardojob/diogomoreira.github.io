@@ -2,7 +2,8 @@
 layout: post
 title:  "Dicas de produtividade com Eclipse"
 date:   2013-03-16 01:46:42
-comments: false
+comments: true
+category: blog
 tags: tutorials eclipse pt-br
 ---
 Como um dos primeiros posts aqui no blog, eu gostaria de apresentar algumas dicas para aumentar sua produtividade utilizando a IDE Eclipse, a mais utilizada por quem trabalha com Java, e utilizada também em outras linguagens como HTML, CSS, Python, etc. O Eclipse vem com muitas funções ativadas por padrão que nem sempre são necessárias para o nosso ambiente e outras que seriam interessantes e não são habilitadas por padrão. Aqui vão algumas dicas que podem ser úteis.

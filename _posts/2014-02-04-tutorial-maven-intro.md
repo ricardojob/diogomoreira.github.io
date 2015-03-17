@@ -3,6 +3,7 @@ layout: post
 title:  "Tutorial Maven - Introdução"
 date:   2014-02-04 01:46:42
 comments: true
+category: blog
 tags: development configuration-management tutorials java maven pt-br
 ---
 

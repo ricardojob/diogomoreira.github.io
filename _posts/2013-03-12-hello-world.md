@@ -2,6 +2,8 @@
 layout: post
 title:  "Hello World"
 date:   2013-03-13 03:13:47
+comments: false
+category: blog
 tags: off-topic thoughts pt-br
 ---
 
