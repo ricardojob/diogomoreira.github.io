@@ -18,8 +18,6 @@ Tornar o aluno capacitado a:
 
 ## Aulas
 
-  Sem aulas até o momento.
-
   <ul class="post-list">
     {% for post in site.categories.aps20151 %}
       <li>
