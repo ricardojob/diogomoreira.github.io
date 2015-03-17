@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 <h1 class="post-title">Hello world!</h1>
