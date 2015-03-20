@@ -1,8 +1,11 @@
 #!/usr/bin/bash
 
 # The goal of this script is to make easy for create subjects' posts.
+#
 # The first parameter is the class name. e.g: "Introduction to Software Engineer"
-# The second parameter is the category (or subject). e.g: For subject "APS" in the 2015.1 semester,the default category is "aps20151" (lower case, without dots and spaces)
+#
+# The second parameter is the category (or subject). e.g: For subject "APS" in the 2015.1 semester,
+# the default category is "aps20151" (lower case, without dots and spaces)
 
 create_date() {
 	date=$(date +"%Y-%m-%d")
