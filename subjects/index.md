@@ -5,13 +5,18 @@ navigation: true
 permalink: /ensino/
 ---
 
-Neste espaço se encontra o acesso as páginas específicas das minhas disciplinas para os meus alunos. Vocês irão encontrar o material das aulas e o planejamento das mesmas. Além disso, sempre estou postando alguns links complementares para ajudar na compreensão e expansão do conteúdo visto em sala de aula.
+Neste espaço se encontra o acesso as páginas específicas das minhas disciplinas para os meus alunos. Aqui vocês irão encontrar o material das aulas e o planejamento das mesmas, incluindo horários e eventuais avisos. Além disso, sempre estou postando alguns links complementares para ajudar na compreensão e expansão do conteúdo visto em sala de aula.
 
 ### 2015.1 ###
+
+#### ADS
 
 - [Análise e Projeto de Sistemas](/ensino/aps/) (P3)
 - [Padrões de Projeto](/ensino/padroes/) (P4)
 - [Programação Orientada a Serviços](/ensino/pos/) (P6)
+
+#### Engenharia Civil
+- Introdução a Programação (Em desenvolvimento)
 
 Para os que quiserem consultar o material dos semestres anteriores, eles se encontram disponíveis nos links abaixo no Google Sites. 
 
