@@ -16,7 +16,7 @@ Neste espaço se encontra o acesso as páginas específicas das minhas disciplin
 - [Programação Orientada a Serviços](/ensino/pos/) (P6)
 
 #### Engenharia Civil
-- Introdução a Programação (Em desenvolvimento)
+- [Introdução a Programação](/ensino/programacao) (P2)
 
 Para os que quiserem consultar o material dos semestres anteriores, eles se encontram disponíveis nos links abaixo no Google Sites. 
 
